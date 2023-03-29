@@ -1,2 +1,2 @@
-# _VERNEL
+VERNEL
 스터디
